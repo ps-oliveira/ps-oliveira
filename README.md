@@ -26,7 +26,7 @@ These are my tools and Technologies
   
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pesantxs&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps-oliveira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
